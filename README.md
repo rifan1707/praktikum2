@@ -1,6 +1,6 @@
-nama : rifan arfani
-nim : 312010459
-kelas : ti.20.b2
+                                nama : rifan arfani
+                                nim : 312010459
+                                kelas : ti.20.b2
 
 # 1 Membuat dokumen HTML
 Buatlah dokumen HTML seperti berikut. 
